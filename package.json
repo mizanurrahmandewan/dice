@@ -1,0 +1,14 @@
+{
+  "name": "coldicegame",
+  "version": "1.0.0",
+  "description": "diceGame",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "mizanur",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
